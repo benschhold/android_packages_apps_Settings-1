@@ -43,4 +43,8 @@
     <string name="maintainers_crdroid_title">crDroid maintainers</string>
     <string name="maintainers_crdroid_error">Unable to load maintainers list</string>
 
+    <!-- crDroid Settings -->
+    <string name="crdroid_settings_title">crDroid Settings</string>
+    <string name="header_category_crdroid">crDroid</string>
+
 </resources>
