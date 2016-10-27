@@ -40,7 +40,7 @@
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:layout_below="@+id/container"
-                settings:minI="0.25"
+                settings:minI="0.20"
                 settings:maxI="10.0"
                 settings:defaultValue="0.6"
                 settings:digits="1" />
