@@ -1904,7 +1904,7 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
     private void updateAnimationScaleValue(int which, AnimationScalePreference pref) {
         try {
             float scale = mWindowManager.getAnimationScale(which);
-            if (scale != 1) {
+            if (scale != 0.6f) {
                 mHaveDebugSettings = true;
             }
             pref.setScale(scale);
