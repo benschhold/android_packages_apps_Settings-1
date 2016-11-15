@@ -358,4 +358,7 @@
 
     <!-- NFC PreferenceCategory title -->
     <string name="nfc_title_category">NFC</string>
+
+    <!-- CM Legal -->
+    <string name="cmlicense_title">CyanogenMod legal</string>
 </resources>
